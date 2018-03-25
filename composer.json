@@ -1,0 +1,16 @@
+{
+    "name": "unlooped/simple-form",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Steffen Persch",
+            "email": "s.persch@unlooped.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": { "SimpleForm\\": "src/" }
+    }
+}
